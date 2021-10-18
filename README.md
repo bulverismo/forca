@@ -1,3 +1,3 @@
-#Forca
+# Forca
 
-##Jogo da Forca desenvolvido em Linguagem C
+## Jogo da Forca desenvolvido em Linguagem C
